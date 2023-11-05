@@ -1,0 +1,6 @@
+List Latihan Python >>
+
+1. id.py
+2. tebak.py
+3.
+4. dadu.py
