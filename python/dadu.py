@@ -2,12 +2,14 @@
 import random
 
 while True:
-
+	
+#pilihan
     print("1. Lempar dadu")
     print("2. Keluar\n")
 
     user = int(input("Mau pilih mana bang: "))
 
+#pengkondisian
     if user==1:
         nomor = random.randint(1,6)
         print(f"\n[ {nomor} ]\n")
@@ -17,5 +19,5 @@ while True:
         break
 
     else:
-        break
+        print("\nPilihan tidak valid.. pilih ulang!")
 
