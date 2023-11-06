@@ -1,2 +1,4 @@
-apa coba
+latihan git
+ubah isi file
+
 
